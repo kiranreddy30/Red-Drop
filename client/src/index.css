@@ -1,0 +1,17 @@
+
+
+/* FORM */
+
+
+.form-banner img{
+    height: 100%;
+    width: 100%;
+}
+
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
