@@ -5,6 +5,10 @@ const Form = ({formTittle,}) => {
 
     const [email,setEmail]=useState('');
     const [password,setPassword]=useState('');
+    const [role,setRole]=useState('');
+    const [name,setName]=useState('');
+    const [orhanisationName,setName]=useState('');
+    
   return (
    <>
 
